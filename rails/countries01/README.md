@@ -23,6 +23,6 @@ Things you may want to cover:
 
 * ...
 
-![ER Diagram](er-diagram.svg)
+![ER Diagram](https://github.com/briareos1002/gds-examples/blob/master/rails/countries01/er-diagram.svg)
 
 sdfasdfsd
