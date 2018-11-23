@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+![ER Diagram](er-diagram.svg)
+
+sdfasdfsd
