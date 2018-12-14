@@ -8,9 +8,9 @@
   string interpolation works for double-quoted strings and default strings  
   example:  
   ~~~
-    $object = house
-    setup "This is a $(object)."
-    # => { setup: "This is a house." }
+  $object = house
+  setup "This is a $(object)."
+  # => { setup: "This is a house." }
   ~~~
 
 * __feature__  
