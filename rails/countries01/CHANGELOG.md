@@ -15,7 +15,7 @@
 
 * __feature__  
   schema definition:  
-  if there are more values listed than keys for the schema specifier are defined, then an exception is raised
+  if there are more values listed than keys for the schema specifier are defined, then an exception is raised  
   if there are less values listed than keys for the schema specifier are defined, then only the keys for the available values will be set 
 
 * __breaking change__, __bugfix__  
@@ -26,11 +26,13 @@
 * __feature__  
   schema specifiers can now also be defined at the time of use   
   example:  
+  ~~~
     persons1 , @schema person(firstname,lastname,age)
       : Harry   | Langemann | 44
       : Susi    | Heimstett | 32
     persons2 , @schema person  
       : Ludwig  | Reinemann | 33
+  ~~~
 
 * __feature__  
   anonymous schema specifiers  
